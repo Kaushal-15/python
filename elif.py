@@ -12,4 +12,4 @@ elif(operand=='div'):
     print(a/b)
 else:
         print('invalid')
-#calculator
+ #Simple calculator
