@@ -1,5 +1,4 @@
 import requests
-
 # Replace 'your_api_key_here' with your actual API key
 API_KEY = ''
 
