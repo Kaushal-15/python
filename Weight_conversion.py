@@ -8,10 +8,12 @@ if(choice==1):
     kg=float(input())
     kg_lb=kg*2.20462
     print(f"The {kg} is equivalent to {kg_lb}lbs.")
-else:
+elif(choice==2):
     print("Enter in pounds(lbs):")
     lb=float(input())
     lb_kg=lb/2.20462
     print(f"The {lb} is equivalent to {lb_kg}kg.")
+else:
+    print("Invalid Input choose between (1-2)")
 
 
